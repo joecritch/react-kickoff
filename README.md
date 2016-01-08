@@ -1,3 +1,5 @@
-# REACT KICKOFF
+# React Kickoff
 
-Please don't used this unless I've asked you to. Mwah x
+Generic code and folder structure, lifted from my last project.
+
+**Not fully tested, and no recommendations to use it. Just here for reference.**
